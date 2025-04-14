@@ -1,6 +1,6 @@
-# 🇮🇳 Indian Sign Language Detection  
+# Sign Language Detection  
 
-A web-based application for detecting Indian Sign Language (ISL) alphabets and numbers using a CNN-based machine learning model.
+A web-based application for detecting Sign Language alphabets and numbers using a CNN-based machine learning model.
 
 ---
 
